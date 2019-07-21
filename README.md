@@ -1,5 +1,5 @@
 # blog
-[My blog](https://github.com/Kody851/blog/wiki)
+[My blog](https://github.com/Kody851/blog/wiki/%E7%9B%AE%E5%BD%95)
 # 1. 推荐算法工程师之路
 
 [我的思维导图](https://mindmap.airmore.cn/doc/c84190511cedf1756dc24e631d183b32)(2019.7.20版) ![img](https://github.com/Kody851/blog/raw/master/Pictures/skillTree.png)
